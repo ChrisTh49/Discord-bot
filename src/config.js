@@ -1,7 +1,7 @@
 require("dotenv").config();
 
 module.exports = {
-  token: process.env.BOT_TOKEN,
-  prefix: process.env.BOT_PREFIX,
-  youtubeKey: process.env.API_YOUTUBE_KEY,
+  token: "OTA1NDA5NzcyMzc4MDIxOTI4.YYJqjw.2ULgkf8ovLCrjuBdL5_MduayfL0",
+  prefix: "/",
+  youtubeKey: "AIzaSyB3BT-Hn3mmc0ecDpVLQf1q7aFVlreH02k",
 };
